@@ -1,0 +1,9 @@
+h1 {
+  color: rgba(0.05, 0, 0.3, 1);
+  background-color: #7700CC;
+  border: 0.75vh dashed slategray;
+}
+
+p {
+  color: red;
+}
