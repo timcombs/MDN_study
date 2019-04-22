@@ -12,3 +12,8 @@ li {
   background-color: #7700cc;
   padding: 1vh;
 }
+
+span {
+  border: 1px solid blue;
+  background-color: lime;
+}
