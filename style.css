@@ -7,3 +7,8 @@ h1 {
 p {
   color: red;
 }
+
+li {
+  background-color: #7700cc;
+  padding: 1vh;
+}
