@@ -1,4 +1,4 @@
-/* h1 {
+h1 {
   color: rgba(0.05, 0, 0.3, 1);
   background-color: #7700CC;
   border: 0.75vh dashed slategray;
@@ -16,15 +16,8 @@ li {
 /* span {
   border: 1px solid blue;
   background-color: lime;
-} */
-
-/* .nav {
-  position: absolute;
-  bottom: 0;
 }
-.footer {
-position: relative;
-} */
+
 
 .nav {
   position: relative;
