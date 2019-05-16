@@ -1,7 +1,17 @@
-h1 {
+@font-face {
+  font-family: "Softball";
+  src:  local("softball-v1"),
+        local("softball"),
+        local("Softball-v1"),
+        local("Softball"),
+        url(/./softball-v1/softball.woff);
+}
+  
+  h1 {
   color: rgba(0.05, 0, 0.3, 1);
   background-color: #7700CC;
   border: 0.75vh dashed slategray;
+  font-family: "Softball", sans-serif;
 }
 
 p {
@@ -11,7 +21,7 @@ p {
 li {
   background-color: #7700cc;
   padding: 1vh;
-} */
+}
 
 /* span {
   border: 1px solid blue;
@@ -26,3 +36,4 @@ li {
 .footer {
 position: absolute;
 }
+*/
